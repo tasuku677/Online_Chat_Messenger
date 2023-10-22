@@ -1,5 +1,4 @@
 import socket
-import threading
 import re
 
 # ChatRoom クラス
