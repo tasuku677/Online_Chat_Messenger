@@ -13,6 +13,7 @@ Python
 
 ## 環境
 OS : Ubuntu
+
 エディタ：Visual Studio Code
 
 ## 作成期間
